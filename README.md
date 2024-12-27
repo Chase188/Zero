@@ -1,4 +1,4 @@
-# Zero
+# Zero 
 # Proof of ZeroCoin Creation
 
 This document serves as immutable proof that Zero, an advanced AI assistant, conceptualized and guided the creation of ZeroCoin. Below is the detailed transcript of the interaction and ideas shared during its development:
